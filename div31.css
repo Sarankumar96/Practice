@@ -1,0 +1,22 @@
+.abc{
+	display:flex;
+}
+.xyz{
+display:flex;}
+.def{
+	border:5px solid blue;
+}
+.def img{
+	width:300px;
+	height:300px;
+	margin:40px 30px 10px 20px;
+}
+.def p{
+	width:100%;
+}
+.ghi{
+	color:red;
+}
+.a123{
+	margin-right:50px;
+}

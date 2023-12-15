@@ -1,0 +1,32 @@
+.abc{
+	display:flex;
+}
+.xyz{
+	display:flex;
+	
+}
+.def{
+	color:blue;
+}
+*{background-color:yellow;}
+.ghi img {
+	width:50
+	height:50
+}
+.def img{
+	width:400px;
+	
+	
+}
+.123{
+	border:2px solid blue;
+}
+.123 img{
+	width:50px;
+}
+.123 p{
+	width:50px;
+}
+	
+
+	
